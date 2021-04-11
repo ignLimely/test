@@ -1,0 +1,14 @@
+ [
+            {
+                "uuid": "314",
+                "hwid": "4abc4ba2072d803fadadd98844f9669e",
+                "staff": "true",
+                "cape": "false"
+            },
+           {
+                "uuid": "69",
+                "hwid": "4abc4ba2072d803fadadd98844f9669e",
+                "staff": "false",
+                "cape": "false"
+            }
+]
