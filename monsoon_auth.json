@@ -1,16 +1,24 @@
  [
             {
-                "uuid": "314",
-                "uid": "314",
+                "uuid": "1337",
+                "uid": "1337",
                 "hwid": "4abc4ba2072d803fadadd98844f9669e",
                 "username": "Bruzz",
                 "staff": "true",
-                "cape": "false"
+                "cape": "true"
             },
-           {
+            {
+                "uuid": "72",
+                "uid": "72",
+                "hwid": "4abc4ba2072d803fadadd98844f9669e",
+                "username": "Lime",
+                "staff": "true",
+                "cape": "true"
+            },
+            {
                 "uuid": "69",
                 "uid": "314",
-                "hwid": "4abc4ba2072d803fadadd98844f9669e",
+                "hwid": "",
                 "username": "test",
                 "staff": "false",
                 "cape": "false"
