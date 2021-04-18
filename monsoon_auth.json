@@ -15,12 +15,12 @@
                 "staff": "true",
                 "cape": "true"
             },
-            {
-                "uuid": "69",
-                "uid": "314",
-                "hwid": "",
-                "username": "test",
+            { 
+                "uuid": "18",
+                "uid": "18",
+                "hwid": "d36386651f25a642e1bf8be0ace5188e",
+                "username": "JustNathan",
                 "staff": "false",
-                "cape": "false"
+                "cape": "true"
             }
 ]
